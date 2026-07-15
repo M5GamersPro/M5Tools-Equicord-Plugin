@@ -1,15 +1,10 @@
-# Dependency directories
 node_modules/
 jspm_packages/
 .pnpm-store/
-
-# Build outputs and compilation caches
 dist/
 build/
 .esbuild/
 tsbuildinfo/
-
-# Local configuration and environment logs
 .env
 .env.local
 .env.*.local
@@ -18,8 +13,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-
-# IDE and System files
 .vscode/
 .idea/
 .DS_Store
