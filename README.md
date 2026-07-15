@@ -64,4 +64,4 @@ npx pnpm inject
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-*Developed by **M5** (ID: `1088354509677404201`) @7xr*
+*Developed by **M5** (ID: `1088354509677404201`) @kxf8*
