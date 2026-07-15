@@ -2,8 +2,6 @@
 
 A sleek, draggable, and production-ready **floating utility toolbar** built natively for the **Equicord** desktop client environment. Designed to bypass Content Security Policy (CSP) and runtime isolation restrictions by executing direct memory-hook operations.
 
-![License](https://shields.io)
-![Version](https://shields.io)
 
 ## ✨ Features
 
